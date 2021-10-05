@@ -5,3 +5,8 @@ body{
 h1 {
     color: rgb(2, 4, 15);
 }
+
+nav{
+    background-color: #E59500;
+    border: #002642 5px solid;
+}
