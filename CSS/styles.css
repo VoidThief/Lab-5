@@ -9,4 +9,13 @@ h1 {
 nav{
     background-color: #E59500;
     border: #002642 5px solid;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 8px;
+}
+
+.Ravi {
+    height: auto;
+    width: 25em;
+    float: left;
 }
